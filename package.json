@@ -1,0 +1,30 @@
+{
+  "name": "packab",
+  "version": "1.0.0",
+  "description": "rendu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horfon/NodeJS-Arthur-Bres.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Horfon/NodeJS-Arthur-Bres/issues"
+  },
+  "homepage": "https://github.com/Horfon/NodeJS-Arthur-Bres#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  }
+}
